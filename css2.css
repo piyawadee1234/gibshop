@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+	font-family: Mee;
+	src: url("font/Kanit-Regular.woff");
+}
+*, body{
+	font-family: 'Mee';
+	margin: 0 auto;
+	padding: 0;
+}
+.container{
+	width: 1024px;
+	height: 800px;
+	margin: 0 auto;
+	background-color: #9B9797;
+}
+header{
+	width: 1024px;
+	height: 100px;
+	background-color:lightgoldenrodyellow;
+}
+
+.logo img {
+	width: 50px;
+	height: 50px;
+}
+.logo {
+	float:left;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.socail img {
+	width: 20px;
+	height: 20px;
+}
+.socail{
+	float: right;
+	margin-top: 50px;
+	margin-right: 50px;
+}
+img{
+	margin-left: 10px;
+}

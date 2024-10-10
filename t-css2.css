@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+	font-family: You;
+	src: url(font/YoungSerif-Regular.woff);
+}
+body{
+	font-family: 'You';
+}
+div{
+	border: 2px solid #4ab3bc;
+    background-color: pink;
+}
